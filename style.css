@@ -6,7 +6,7 @@
         .chooseAudio {
             margin: 30px auto;
             background-color: #eeeeee;
-            width: 40%;
+            width: 22rem;
             text-align: center;
             padding: 10px;
             border: 2px dotted rgb(59, 145, 173);
@@ -15,8 +15,8 @@
 
         .container div {
             margin: 0 auto;
-            width: 250px;
-            height: 190px;
+            width: 9rem;
+            height: 8rem;
             margin-bottom: 10px;
         }
 
